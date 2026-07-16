@@ -1,0 +1,78 @@
+
+[
+  {
+    "CommitCharge": 269,
+    "Disasm": "\"56 57 53 55 41 54 41 55 41 56 41 57 48 83 ec 28 4c 8d 3c 24 48 8b e9 48 8d b1 98 38 00 00 ff e2 49 8d 67 28 41 5f 41 5e 41 5d 41 5c 5d 5b 5f 5e c3 00 00 40 00 80 00 00 00 48 89 e9 48 b8 70 51\"",
+    "End VPN": 2298460753919,
+    "File output": "Disabled",
+    "Hexdump": "56 57 53 55 41 54 41 55 41 56 41 57 48 83 ec 28 4c 8d 3c 24 48 8b e9 48 8d b1 98 38 00 00 ff e2 49 8d 67 28 41 5f 41 5e 41 5d 41 5c 5d 5b 5f 5e c3 00 00 40 00 80 00 00 00 48 89 e9 48 b8 70 51",
+    "Notes": null,
+    "PID": 2728,
+    "PrivateMemory": 1,
+    "Process": "MsMpEng.exe",
+    "Protection": "PAGE_EXECUTE_READWRITE",
+    "Start VPN": 2298459652096,
+    "Tag": "VadS",
+    "__children": []
+  },
+  {
+    "CommitCharge": 256,
+    "Disasm": "\"cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc 08 00 42 00 00 00 00 05 48 8b 45 20 48 89 c2\"",
+    "End VPN": 2299092598783,
+    "File output": "Disabled",
+    "Hexdump": "cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc 08 00 42 00 00 00 00 05 48 8b 45 20 48 89 c2",
+    "Notes": null,
+    "PID": 2728,
+    "PrivateMemory": 1,
+    "Process": "MsMpEng.exe",
+    "Protection": "PAGE_EXECUTE_READWRITE",
+    "Start VPN": 2299091550208,
+    "Tag": "VadS",
+    "__children": []
+  },
+  {
+    "CommitCharge": 512,
+    "Disasm": "\"00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00\"",
+    "End VPN": 2299094695935,
+    "File output": "Disabled",
+    "Hexdump": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+    "Notes": null,
+    "PID": 2728,
+    "PrivateMemory": 1,
+    "Process": "MsMpEng.exe",
+    "Protection": "PAGE_EXECUTE_READWRITE",
+    "Start VPN": 2299092598784,
+    "Tag": "VadS",
+    "__children": []
+  },
+  {
+    "CommitCharge": 1,
+    "Disasm": "\"00 00 00 00 00 00 00 00 90 78 d9 60 eb 01 00 00 90 78 d9 60 eb 01 00 00 00 00 d9 60 eb 01 00 00 b0 0d d5 60 eb 01 00 00 00 10 d5 60 eb 01 00 00 00 70 d5 60 eb 01 00 00 01 00 00 00 00 00 00 00\"",
+    "End VPN": 2110453542911,
+    "File output": "Disabled",
+    "Hexdump": "00 00 00 00 00 00 00 00 90 78 d9 60 eb 01 00 00 90 78 d9 60 eb 01 00 00 00 00 d9 60 eb 01 00 00 b0 0d d5 60 eb 01 00 00 00 10 d5 60 eb 01 00 00 00 70 d5 60 eb 01 00 00 01 00 00 00 00 00 00 00",
+    "Notes": null,
+    "PID": 6924,
+    "PrivateMemory": 1,
+    "Process": "powershell.exe",
+    "Protection": "PAGE_EXECUTE_READWRITE",
+    "Start VPN": 2110453514240,
+    "Tag": "VadS",
+    "__children": []
+  },
+  {
+    "CommitCharge": 8,
+    "Disasm": "\"00 00 00 00 00 00 00 00 30 a2 5b 4e ac 57 00 01 ee ff ee ff 02 00 00 00 20 01 d9 60 eb 01 00 00 20 01 d9 60 eb 01 00 00 00 00 d9 60 eb 01 00 00 00 00 d9 60 eb 01 00 00 0f 00 00 00 00 00 00 00\"",
+    "End VPN": 2110453841919,
+    "File output": "Disabled",
+    "Hexdump": "00 00 00 00 00 00 00 00 30 a2 5b 4e ac 57 00 01 ee ff ee ff 02 00 00 00 20 01 d9 60 eb 01 00 00 20 01 d9 60 eb 01 00 00 00 00 d9 60 eb 01 00 00 00 00 d9 60 eb 01 00 00 0f 00 00 00 00 00 00 00",
+    "Notes": null,
+    "PID": 6924,
+    "PrivateMemory": 1,
+    "Process": "powershell.exe",
+    "Protection": "PAGE_EXECUTE_READWRITE",
+    "Start VPN": 2110453776384,
+    "Tag": "VadS",
+    "__children": []
+  }
+]
